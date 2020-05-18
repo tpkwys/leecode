@@ -28,6 +28,8 @@ public class Algorithm2 {
 
     /**
      *algorithm:链表简单遍历;注意遍历结束条件和进位
+     * 时间复杂度：O(max(m,n))
+     * 空间复杂度：O(max(m,n))
      */
     public ListNode addTwoNumbers(ListNode node1,ListNode node2){
        ListNode head=null;
